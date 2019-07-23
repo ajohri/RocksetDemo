@@ -1,18 +1,17 @@
 # RocksetDemo
  Created a simple client using the Rockset python class
-> Uploaded the data in this folder to Rockset through the web interface
-
-> Created an API key from the Rockset web interface
+ - Uploaded the data in this folder to Rockset through the web interface
+ - Created an API key from the Rockset web interface
 
 Queried Rockset ingested data in the RocksetClientQuery function
->Contains a basic query
+ - Contains a basic query
 
 # File Descriptions
 generated.json
-> copy of a the data that is ingested into Rockset
+ - copy of a the data that is ingested into Rockset
 
 RocksetClientQuery
-> Simple client usage which contains an api key and url in the initialization of the client
+ - Simple client usage which contains an api key and url in the initialization of the client
 
 ## Task List
 - [ ] Create config file to store api key
