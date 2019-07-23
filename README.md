@@ -16,5 +16,5 @@ RocksetClientQuery
  - Simple client usage which contains an api key and url in the initialization of the client
  - Went through provided documentation on Rocket website: https://docs.rockset.com/python/ to create the python client
 
-## Task List
-- [x] Create config file to store api key
+## Task Completed
+- [x] Create config file to store api key. Created API key from Rockset web interface
