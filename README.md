@@ -17,4 +17,4 @@ RocksetClientQuery
  - Went through provided documentation on Rocket website: https://docs.rockset.com/python/ to create the python client
 
 ## Task List
-- [ ] Create config file to store api key
+- [x] Create config file to store api key
