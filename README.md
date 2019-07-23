@@ -14,4 +14,4 @@ generated.json
 RocksetClientQuery
 > Simple client usage which contains an api key and url in the initialization of the client
 
-TODO: Create config file to store api key
+- [] TODO: Create config file to store api key
