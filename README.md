@@ -8,9 +8,9 @@ Queried ingested data in the RocksetClientQuery file
 
 # File Descriptions
 generated.json
- - copy of a the data that is ingested into Rockset
+ - Copy of a the data that is ingested into Rockset
  - Generated using https://www.json-generator.com/
- > contains around 2000 unique JSON objects
+ - Contains around 2000 unique JSON objects
 
 RocksetClientQuery
  - Simple client usage which contains an api key and url in the initialization of the client
