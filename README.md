@@ -14,4 +14,5 @@ generated.json
 RocksetClientQuery
 > Simple client usage which contains an api key and url in the initialization of the client
 
+## Task List
 - [ ] Create config file to store api key
