@@ -14,6 +14,7 @@ generated.json
 
 RocksetClientQuery
  - Simple client usage which contains an api key and url in the initialization of the client
+ - Went through provided documentation on Rocket website: https://docs.rockset.com/python/
 
 ## Task List
 - [ ] Create config file to store api key
